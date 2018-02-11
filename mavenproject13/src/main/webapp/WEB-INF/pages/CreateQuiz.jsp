@@ -8,6 +8,6 @@
 </head>
 <body>
 <h1>Quiz created with the questions you added!</h1>
-<a href="StudentLogin">Now click here to login as student and take quiz</a>
+<a href="StudentLogin.jsp">Now click here to login as student and take quiz</a>
 </body>
 </html>
